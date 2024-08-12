@@ -30,4 +30,3 @@ jobs:
       working-directory: ./E1
       run: make test
 
-~  
